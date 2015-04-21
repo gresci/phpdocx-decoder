@@ -1,4 +1,4 @@
-###PhpDocx 4.5 classes decoder
+###PhpDocx 4.6 classes decoder
 
 [http://www.phpdocx.com/](http://www.phpdocx.com/)
 
@@ -13,4 +13,4 @@ to something like this:
         }
     }
 
-Trial message in CreateDocx.inc from line 3223 to 3277
+Trial message located in CreateDocx.inc from line 3223 to 3277
