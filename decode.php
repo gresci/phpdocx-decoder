@@ -49,4 +49,4 @@ foreach ($exclude as $file) {
     }
 }
 
-echo 'The end.';
+echo 'The end. Decoded classes are located in ' . __DIR__ . DIRECTORY_SEPARATOR . $outputDir;

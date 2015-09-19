@@ -1,4 +1,4 @@
-###PhpDocx 4.6 classes decoder
+###PhpDocx 5.0 classes decoder
 
 [http://www.phpdocx.com/](http://www.phpdocx.com/)
 
@@ -15,4 +15,4 @@ public static function autoloadGenericClasses($className)
 }
 ```
 
-Trial message is located in CreateDocx.inc from line 3223 to 3277
+Trial message is located in CreateDocx.inc from line 3145 to 3200
